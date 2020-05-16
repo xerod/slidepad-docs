@@ -1,5 +1,5 @@
 <template>
-  <div class="py-2 border-t-2 border-ui-primary">
+  <div class="py-2 border-ui-primary">
     <div class="container">
 
       <div class="flex items-center justify-between -mx-2 sm:-mx-4">
@@ -10,7 +10,7 @@
             title="Home"
           >
             <Logo :width="40" class="text-ui-primary" />
-            <span class="hidden ml-2 text-xl font-black tracking-tighter uppercase sm:block">
+            <span class="hidden ml-2 text-xl font-black tracking-tight sm:block">
               {{ meta.siteName }}
             </span>
           </g-link>
