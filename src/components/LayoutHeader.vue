@@ -9,7 +9,7 @@
             class="flex items-center text-ui-primary"
             title="Home"
           >
-            <Logo :width="40" class="text-ui-primary" />
+            <Logo :width="40" class="text-ui-primary p-1" />
             <span class="hidden ml-2 text-xl font-black tracking-tight sm:block">
               {{ meta.siteName }}
             </span>

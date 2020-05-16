@@ -32,7 +32,7 @@ module.exports = {
             ],
           },
           {
-            title: "Slidepad",
+            title: "Using Slidepad",
             items: ["/tutorial/google-keep/", "/tutorial/trello/"],
           },
           {
