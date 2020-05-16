@@ -125,6 +125,10 @@ export default {
 </script>
 
 <style lang="scss">
+body {
+  @apply bg-ui-background;
+}
+
 :root {
   --color-ui-background: theme('colors.white');
   --color-ui-typo: theme('colors.gray.700');
