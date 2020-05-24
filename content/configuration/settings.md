@@ -2,7 +2,6 @@
 description: ""
 sidebar: "docs"
 prev: "/tutorial/trello/"
-next: "/configuration/sidebar/"
 ---
 
 # Settings

@@ -4,7 +4,7 @@
       <div class="flex flex-col items-center">
         <div class="flex flex-col items-center mb-2 text-ui-primary">
           <Logo :width="80" />
-          <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
+          <h2 class="text-3xl text-6xl font-bold tracking-tighter border-none">
             Example Page
           </h2>
         </div>
@@ -90,7 +90,7 @@ export default {
   },
 
   metaInfo() {
-    const title = 'Great Documentation starts here';
+    const title = 'Better multitasking with';
     const description = 'DOCC is a starter theme with instant search and dark mode for writing great technical documentation. Based on Gridsome!';
 
     return {

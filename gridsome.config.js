@@ -24,12 +24,7 @@ module.exports = {
         sections: [
           {
             title: "Getting Started",
-            items: [
-              "/docs/",
-              "/docs/installation/",
-              "/docs/writing-content/",
-              "/docs/deploying/",
-            ],
+            items: ["/docs/", "/docs/basics/"],
           },
           {
             title: "Using Slidepad",
@@ -37,7 +32,7 @@ module.exports = {
           },
           {
             title: "Configuration",
-            items: ["/configuration/settings/", "/configuration/sidebar/"],
+            items: ["/configuration/settings/"],
           },
         ],
       },

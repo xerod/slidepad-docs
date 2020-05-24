@@ -1,15 +1,13 @@
 ---
 description: ""
 sidebar: "docs"
-prev: "/docs/deploying/"
+prev: "/docs/basics/"
 next: "/tutorial/trello/"
 ---
 
 # Google Keep
 
-Google Keep is a note-taking service developed by Google. Google Keep is available on the web, and has mobile apps for the Android and iOS mobile operating systems. Keep offers a variety of tools for taking notes, including text, lists, images, and audio. Users can set reminders, which are integrated with Google Now
-
-At this particular time, Google Keep doesn't have their own native desktop App. That mean you should open a browser to use them. Sometimes users don't always use their browser when they're working, either they're writing code or writing online articles. In this use case, Slidepad get you covered.
+At this particular time, Google Keep doesn't have their own native desktop App. That mean you should open a browser to use them. In some use case, users don't always use their browser when they're working, either they're writing code or writing online articles. That's when Slidepad come in.
 
 ## Simple note taking
 

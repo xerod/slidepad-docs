@@ -10,9 +10,9 @@
             title="Home"
           >
             <Logo :width="40" class="text-ui-primary p-1" />
-            <span class="hidden ml-2 text-xl font-black tracking-tight sm:block">
+            <h1 class="hidden ml-2 text-xl font-bold my-auto tracking-tight sm:block">
               {{ meta.siteName }}
-            </span>
+            </h1>
           </g-link>
 
           <div v-if="settings.nav.links.length > 0" class="hidden ml-2 mr-5 sm:block sm:ml-8">

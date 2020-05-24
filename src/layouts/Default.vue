@@ -134,7 +134,7 @@ body {
   --color-ui-typo: theme('colors.gray.700');
   --color-ui-sidebar: theme('colors.gray.200');
   --color-ui-border: theme('colors.gray.300');
-  --color-ui-primary: theme('colors.indigo.600');
+  --color-ui-primary: theme('colors.blue.600');
 }
 
 html[lights-out] {
@@ -142,7 +142,7 @@ html[lights-out] {
   --color-ui-typo: theme('colors.gray.100');
   --color-ui-sidebar: theme('colors.gray.800');
   --color-ui-border: theme('colors.gray.800');
-  --color-ui-primary: theme('colors.indigo.500');
+  --color-ui-primary: theme('colors.blue.500');
 
   pre[class*="language-"],
   code[class*="language-"] {
@@ -160,7 +160,7 @@ h1,
 h2,
 h3,
 h4 {
-  @apply leading-snug font-black mb-4 text-ui-typo;
+  @apply leading-snug font-bold mb-4 text-ui-typo;
 
   &:hover {
     a::before {
