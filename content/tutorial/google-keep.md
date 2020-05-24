@@ -13,15 +13,20 @@ At this particular time, Google Keep doesn't have their own native desktop App. 
 
 Taking note for your book summary
 
+![](../../static/basics-02.gif)
+
 ## Dragging screenshot
 
 Some people need a visual clue, that's help them to take action faster. With Slidepad, it's easier to drag a screenshot to Google Keep. There's several way to do this, you could try them all and see what fit best with you.
 
 Here's what you can do:
 
+[insert gif here]
+
 #### Using slidepad shortcut
 
 First, you should configure Slidepad keyboard shortcut. Read here at configration settings.
+
 [insert gif here]
 
 #### Turn off automatic slide out
